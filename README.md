@@ -104,3 +104,4 @@ In summary, you should now have a firm understanding of how to implement basic r
 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/rails-static-request-readme'>Rails Static Request</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Rails Static Request</p>
