@@ -102,6 +102,10 @@ In summary, you should now have a firm understanding of how to implement basic r
 3. The route file maps the request through whichever controller method is called
 4. The controller then responds with the view that belongs to that specific method and delivers it to the client
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-rails-static-request-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-rails-static-request-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/rails-static-request-readme'>Rails Static Request</a> on Learn.co and start learning to code for free.</p>
 <p data-visibility='hidden'>PHRG Rails Static Request</p>
